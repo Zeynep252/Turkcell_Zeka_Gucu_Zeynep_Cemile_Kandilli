@@ -1,4 +1,4 @@
-Merhaba, ben Turcell Zeka Gücü Hackaton'undan Zeynep Cemile Kandilli. GitHub'a yüklediğim dosyaların işlevleri şu şekildedir:
+Merhaba, ben Turcell Zeka Gücü Hackaton'undan Zeynep Cemile Kandilli. GitHub'a yüklediğim dosyaların işlevleri şu şekildedir:\n
 train.csv ve names.txt --> Veri Setinin Hazırlanması.ipynb dosyasının çalışması için gerekli olan, Kaggle'den alınmış dosyalardır.
 Veri Setinin Hazırlanması.ipynb--> train.csv ve names.txt dosyalarını derleyerek kullanılacak asıl veri setlerini, yani UsersAndSongs.xlsx ve UsersLogical.xlsx dosyalarını oluşturmaktadır. Bu iki Excel dosyasını zaten indirdiyseniz tekrardan bu kodu çalıştırmanıza gerek
 yoktur, ancak verilerin nasıl hazırlandığını inceleyebilirsiniz.
